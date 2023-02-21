@@ -1,1 +1,1 @@
-print("Hello World"); #this is a demo
+print("Hello World"); #this is a demo program
